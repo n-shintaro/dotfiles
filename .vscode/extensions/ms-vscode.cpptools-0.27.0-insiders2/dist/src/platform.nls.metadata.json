@@ -1,0 +1,11 @@
+{
+	"messages": [
+		"Could not get ProduceVersion from SystemVersion.plist",
+		"Failed to find SystemVersion.plist in {0}."
+	],
+	"keys": [
+		"missing.plist.productversion",
+		"missing.darwin.systemversion.file"
+	],
+	"filePath": "src\\platform"
+}

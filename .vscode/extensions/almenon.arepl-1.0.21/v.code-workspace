@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"mochaExplorer.files": "test/*.ts",
+		"mochaExplorer.require": "ts-node/register",
+		"mochaExplorer.ui": "tdd"
+	}
+}
