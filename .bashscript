@@ -1,0 +1,6 @@
+alias ds='cd ~/Dockerfile/docker-sfm &&  ./run.sh'
+alias dpy='cd ~/Dockerfile/docker-python && ./run.sh'
+alias ga='git add -A'
+alias gc='git commit -m'
+alias gp='git push'
+source ~/enhancd/init.sh
